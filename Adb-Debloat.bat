@@ -143,8 +143,5 @@ adb shell pm uninstall --user 0 com.deezer.android.partner
 adb shell pm uninstall --user 0 com.sec.android.app.sbrowsertry
 adb shell pm uninstall --user 0 com.sec.hearingadjust
 adb shell pm uninstall --user 0 com.dsi.ant.sample.acquirechannels
-adb install .\APK\AuroraStore.apk
-adb install .\APK\Keyboard.apk
-adb install .\APK\SD_Maid.apk
 pause
 adb reboot
